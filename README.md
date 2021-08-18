@@ -5,6 +5,7 @@ The ability to predict movement of stock prices has been the Holy Grail for inve
 
 We will discuss in detail steps taken to obtain and visulise historical data, background of each learning method used, and evaluation of the performance of each model against 8 heavily traded stocks in Hong Kong and US stock exchanges.  The 4 methods we will explore in here are SVM, Random Forrest, XGBoost, and Deep Learning with LSTM and CNN.
 
+Full discussion of this project can be found on the blog page [here.](https://jztang.medium.com/predicting-stock-prices-with-ai-which-method-should-you-use-to-profit-5cbc4c9a2cc1)
 
 ## Problem Statement
 We seek to explore the use of machine learning for the following two problems, with the first being a simplified version of the second:
