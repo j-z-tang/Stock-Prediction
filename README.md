@@ -1,4 +1,4 @@
-# Predicting stock prices with Machine Learning - Udacity Data Science Nanodegree Capstone Project
+# Predicting stock prices with Machine Learning
 
 ## Project overview
 The ability to predict movement of stock prices has been the Holy Grail for investors around the world.  In this project, we explore the topic of predicting the movement of stock prices using supervised learning, as well as more sophisticated deep learning methods.
